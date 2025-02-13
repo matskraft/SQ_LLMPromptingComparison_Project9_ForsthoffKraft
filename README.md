@@ -36,11 +36,7 @@ This project provides a comprehensive pipeline for evaluating different Large La
    git clone <repo-url>
    cd <project-folder>
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the pipeline notebook:
+2. Run the pipeline notebook:
    ```sh
    jupyter notebook llm_comparison_full_pipeline.ipynb
    ```
